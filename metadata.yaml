@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32890
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Porges
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42135#The-Unwilling-Professor
 gutenberg_issued: '2013-02-19'
 gutenberg_type: Text
 identifiers:
